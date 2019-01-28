@@ -1,4 +1,4 @@
-##LICENCE
+## LICENCE
 
 ```
 Copyright 2018 A. Ihsan Erdem <ihsan@itugnu.org>
@@ -17,4 +17,4 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
-####Readme file will be updated!
+#### Readme file will be updated!
