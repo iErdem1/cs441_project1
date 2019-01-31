@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  cs441_project1
 //
-//  Created by Cihangir Umithan Goktolga on 29.01.2019.
+//  Created by Ahmed Ihsan Erdem on 29.01.2019.
 //  Copyright © 2019 Ahmed Ihsan Erdem. All rights reserved.
 //
 
