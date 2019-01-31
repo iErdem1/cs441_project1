@@ -29,3 +29,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 - Main idea of the project is learning and adopting mobile environment and playgrounds. This was my first experience on any mobile platform, so migration was not easy. I choose Swift basically for no reason. I just wanted to see native iOS environment. On next project I am planning to use ObjectiveC to explore and learn different ones. 
 - Project basically aim to learn object types and objects in Swift and understanding basic syntax differences. Also, if you check th code, you can see action assignation examples. 
 - Moreover, I fundamentally understand file hierarcy in Swift. 
+
+![Overview](/home/ihsanerdem/Documents/spring2019/cs441/cs441_project1/static/Screen Shot 2019-01-30 at 22.32.11.png  "Img1")

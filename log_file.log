@@ -1,0 +1,80 @@
+commit 0d4089f4a6bb98cbeec5ea2565dc98717c8df932
+Author: Ahmed Ihsan Erdem <ahmedihsanerdem@gmail.com>
+Date:   Wed Jan 30 23:08:51 2019 -0500
+
+    Updated README.md
+    
+    Signed-off-by: Ahmed Ihsan Erdem <ahmedihsanerdem@gmail.com>
+
+ README.md | 13 ++++++++++++-
+ 1 file changed, 12 insertions(+), 1 deletion(-)
+
+commit 8dafe961d91ef36ccd5502ec3b1f93f06de0291b
+Author: Ahmed Ihsan Erdem <ahmedihsanerdem@gmail.com>
+Date:   Wed Jan 30 22:41:52 2019 -0500
+
+    Project structure completely changed. Alert and pop-ups added.
+    
+    Signed-off-by: Ahmed Ihsan Erdem <ahmedihsanerdem@gmail.com>
+
+ cs441_project1/cs441_project1/.DS_Store            | Bin 0 -> 6148 bytes
+ .../cs441_project1/Base.lproj/Main.storyboard      |  51 ----
+ cs441_project1/cs441_project1/ViewController.swift |  25 --
+ .../cs441_project1.xcodeproj/project.pbxproj       | 339 +++++++++++++++++++++
+ .../project.xcworkspace/contents.xcworkspacedata   |   7 +
+ .../xcshareddata/IDEWorkspaceChecks.plist          |   8 +
+ .../UserInterfaceState.xcuserstate                 | Bin 0 -> 26592 bytes
+ .../xcschemes/xcschememanagement.plist             |  14 +
+ .../{ => cs441_project1}/AppDelegate.swift         |   2 +-
+ .../AppIcon.appiconset/Contents.json               |   0
+ .../Assets.xcassets/Contents.json                  |   0
+ .../Base.lproj/LaunchScreen.storyboard             |   0
+ .../cs441_project1/Base.lproj/Main.storyboard      |  67 ++++
+ .../cs441_project1/{ => cs441_project1}/Info.plist |   0
+ .../cs441_project1/ViewController.swift            |  46 +++
+ 15 files changed, 482 insertions(+), 77 deletions(-)
+
+commit 667ccf1de7221af0a135fddf63f789766a28efac
+Author: Ahmed Ihsan Erdem <ahmedihsanerdem@gmail.com>
+Date:   Wed Jan 30 01:27:49 2019 -0500
+
+    Swift project started. Labels and signals created.
+    
+    Signed-off-by: Ahmed Ihsan Erdem <ahmedihsanerdem@gmail.com>
+
+ .../cs441_project1.xcodeproj/project.pbxproj       | 339 +++++++++++++++++++++
+ .../project.xcworkspace/contents.xcworkspacedata   |   7 +
+ .../xcshareddata/IDEWorkspaceChecks.plist          |   8 +
+ .../UserInterfaceState.xcuserstate                 | Bin 0 -> 23529 bytes
+ .../xcschemes/xcschememanagement.plist             |  14 +
+ cs441_project1/cs441_project1/AppDelegate.swift    |  46 +++
+ .../AppIcon.appiconset/Contents.json               |  98 ++++++
+ .../cs441_project1/Assets.xcassets/Contents.json   |   6 +
+ .../Base.lproj/LaunchScreen.storyboard             |  25 ++
+ .../cs441_project1/Base.lproj/Main.storyboard      |  51 ++++
+ cs441_project1/cs441_project1/Info.plist           |  43 +++
+ cs441_project1/cs441_project1/ViewController.swift |  25 ++
+ 12 files changed, 662 insertions(+)
+
+commit 532e97f0f3159402a18a445f149a4777b39373c7
+Author: Ahmed Ihsan Erdem <ahmedihsanerdem@gmail.com>
+Date:   Mon Jan 28 16:16:00 2019 -0500
+
+    README.md typo correction.
+    
+    Signed-off-by: Ahmed Ihsan Erdem <ahmedihsanerdem@gmail.com>
+
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 9c7eb4df2eb8826bd2861c408ed7c6f37832f255
+Author: Ahmed Ihsan Erdem <ahmedihsanerdem@gmail.com>
+Date:   Mon Jan 28 16:13:05 2019 -0500
+
+    Initial commit
+    
+    Signed-off-by: Ahmed Ihsan Erdem <ahmedihsanerdem@gmail.com>
+
+ LICENSE   | 674 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ README.md |  20 ++
+ 2 files changed, 694 insertions(+)
