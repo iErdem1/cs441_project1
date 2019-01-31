@@ -1,3 +1,6 @@
+# BUTTONS IN WONDERLAND
+- Binghamton University Spring 2019 CS441 Gaming for Mobile Platform class "Hello World!" project.
+
 ## LICENCE
 
 ```
@@ -17,4 +20,12 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
-#### Readme file will be updated!
+## Project Description
+
+- This is very first iOS mobile application project for university project.
+- Technologies: 
+	- Swift 4.2.1
+	- XCode 10.1 Build Version: 10B61
+- Main idea of the project is learning and adopting mobile environment and playgrounds. This was my first experience on any mobile platform, so migration was not easy. I choose Swift basically for no reason. I just wanted to see native iOS environment. On next project I am planning to use ObjectiveC to explore and learn different ones. 
+- Project basically aim to learn object types and objects in Swift and understanding basic syntax differences. Also, if you check th code, you can see action assignation examples. 
+- Moreover, I fundamentally understand file hierarcy in Swift. 
