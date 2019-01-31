@@ -30,4 +30,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 - Project basically aim to learn object types and objects in Swift and understanding basic syntax differences. Also, if you check th code, you can see action assignation examples. 
 - Moreover, I fundamentally understand file hierarcy in Swift. 
 
-![Overview](/home/ihsanerdem/Documents/spring2019/cs441/cs441_project1/static/Screen Shot 2019-01-30 at 22.32.11.png  "Img1")
+
